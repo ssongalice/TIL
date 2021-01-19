@@ -8,9 +8,7 @@
 
 - JavaScript 관련 공부 정리
 
-### 모던 JavaScript 튜토리얼
-
-- 기초부터 다시 시작하는 JavaScript 공부
+* 2021.01.20 [Redux Toolkit 기본](./JavaScript/007_ReduxToolkit.md)
 
 ---
 
