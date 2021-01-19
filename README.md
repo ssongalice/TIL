@@ -1,2 +1,27 @@
-# TIL
-Today I Learned
+# Today I Learned
+
+- 하루에 공부한 내용을 정리
+
+---
+
+## JavaScript
+
+- JavaScript 관련 공부 정리
+
+### 모던 JavaScript 튜토리얼
+
+- 기초부터 다시 시작하는 JavaScript 공부
+
+---
+
+## Medium
+
+- Medium 블로그 보고 정리
+- velog에 적었던 초기 내용 옮겨옴.
+
+* 2020.12.28 [함수형 프로그래밍에 대한 적당한 고찰](./Medium/001_FunctionalProgramming.md)
+* 2020.12.29 [some, every의 차이](./Medium/002_SomeAndEvery.md)
+* 2020.12.30 [모든 js 개발자가 알아야 하는 9가지 ES6 요소들](./Medium/003_9FeaturesJS.md)
+* 2021.01.02 [BEM](./Medium/004_BEM.md)
+* 2021.01.03 [try/catch 문](./Medium/005_TryCatch.md)
+* 2021.01.09 [가장 자주쓰는 22가지 코드 스니펫](./Medium/006_22CodeSnippets.md)
