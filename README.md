@@ -8,7 +8,8 @@
 
 - JavaScript 관련 공부 정리
 
-* 2021.01.20 [Redux Toolkit 기본](./JavaScript/007_ReduxToolkit.md)
+* 2021.01.19 [Redux Toolkit 기본](./JavaScript/007_ReduxToolkit.md)
+* 2021.01.21 [객체 맵핑](./JavaScript/008_Mapping.md)
 
 ---
 
