@@ -25,3 +25,11 @@
 * 2021.01.02 [BEM](./Medium/004_BEM.md)
 * 2021.01.03 [try/catch 문](./Medium/005_TryCatch.md)
 * 2021.01.09 [가장 자주쓰는 22가지 코드 스니펫](./Medium/006_22CodeSnippets.md)
+
+---
+
+## 프론트엔드 스터디 일기
+
+- 시원스쿨, 프론트엔드 스터디 등 스터디를 하면서 삽질했던 내용 복기
+
+* 2021.01.27 [API 데이터 파싱하기](./frontstudy/010_dataparsing.md)
