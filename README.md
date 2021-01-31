@@ -33,3 +33,4 @@
 - 시원스쿨, 프론트엔드 스터디 등 스터디를 하면서 삽질했던 내용 복기
 
 * 2021.01.27 [API 데이터 파싱하기](./frontstudy/010_dataparsing.md)
+* 2021.01.31 [React Testing Library](./FrontStudy/011_ReactTesting.md)
