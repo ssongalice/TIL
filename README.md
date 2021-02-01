@@ -34,3 +34,18 @@
 
 * 2021.01.27 [API 데이터 파싱하기](./frontstudy/010_dataparsing.md)
 * 2021.01.31 [React Testing Library](./FrontStudy/011_ReactTesting.md)
+
+---
+
+## 모던자바스크립트 읽기 (ko.javascript.info)
+
+- 하루에 일정분량씩 무조건 모던자바스크립트 읽기
+
+### 파트 1
+
+### 자바스크립트 기본
+
+- 2021.01.31 [기본연산자와 수학](./JavascriptInfo/02_Fundamentals/011_0208operators.md)
+- 2021.01.31 [비교연산자](./JavascriptInfo/02_Fundamentals/011_0209comparison.md)
+- 2021.02.01 [논리연산자](./JavascriptInfo/02_Fundamentals/012_0211logicalOperators.md)
+- 2021.02.01 [null 병합 연산자 ??](./JavascriptInfo/02_Fundamentals/012_0212Nullish.md)
