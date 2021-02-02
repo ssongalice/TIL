@@ -49,3 +49,4 @@
 - 2021.01.31 [비교연산자](./JavascriptInfo/02_Fundamentals/011_0209comparison.md)
 - 2021.02.01 [논리연산자](./JavascriptInfo/02_Fundamentals/012_0211logicalOperators.md)
 - 2021.02.01 [null 병합 연산자 ??](./JavascriptInfo/02_Fundamentals/012_0212Nullish.md)
+- 2021.02.02 [while과 for 반복문](./JavascriptInfo/02_Fundamentals/013_0213WhileFor.md)
