@@ -43,7 +43,7 @@
 
 ### 파트 1
 
-### 자바스크립트 기본
+### 2. 자바스크립트 기본
 
 - 2021.01.31 [기본연산자와 수학](./JavascriptInfo/02_Fundamentals/011_0208operators.md)
 - 2021.01.31 [비교연산자](./JavascriptInfo/02_Fundamentals/011_0209comparison.md)
@@ -54,3 +54,8 @@
 - 2021.02.06 [함수](./JavascriptInfo/02_Fundamentals/014_0215FunctionBasic.md)
 - 2021.02.06 [함수표현식](./JavascriptInfo/02_Fundamentals/014_0216FunctionExpression.md)
 - 2021.02.06 [화살표함수](./JavascriptInfo/02_Fundamentals/014_0217ArrowFunction.md)
+
+### 4. 객체
+
+- 2021.02.07 [객체](./JavascriptInfo/04_ObjectBasics/015_0401Object.md)
+- 2021.02.07 [참조에 의한 객체 복사](./JavascriptInfo/04_ObjectBasics/015_0402ObjectCopy.md)
