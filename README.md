@@ -59,3 +59,8 @@
 
 - 2021.02.07 [객체](./JavascriptInfo/04_ObjectBasics/015_0401Object.md)
 - 2021.02.07 [참조에 의한 객체 복사](./JavascriptInfo/04_ObjectBasics/015_0402ObjectCopy.md)
+- 2021.02.11 [메서드와 this](./JavascriptInfo/04_ObjectBasics/016_0404ObjectMethods.md)
+- 2021.02.11 [new 연산자와 생성자 함수](./JavascriptInfo/04_ObjectBasics/016_0405ConstructorNew.md)
+- 2021.02.11 [옵셔널 체이닝 ?.](./JavascriptInfo/04_ObjectBasics/016_0406OptinalChaining.md)
+- 2021.02.11 [심볼형](./JavascriptInfo/04_ObjectBasics/016_0407Symbol.md)
+- 2021.02.11 [객체를 원시형으로 변환하기](./JavascriptInfo/04_ObjectBasics/016_ObjectToprimitive.md)
