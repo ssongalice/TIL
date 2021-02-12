@@ -64,3 +64,16 @@
 - 2021.02.11 [옵셔널 체이닝 ?.](./JavascriptInfo/04_ObjectBasics/016_0406OptinalChaining.md)
 - 2021.02.11 [심볼형](./JavascriptInfo/04_ObjectBasics/016_0407Symbol.md)
 - 2021.02.11 [객체를 원시형으로 변환하기](./JavascriptInfo/04_ObjectBasics/016_ObjectToprimitive.md)
+
+### 5. 자료구조와 자료형
+
+- 2021.02.12 [원시값의 메서드](./JavascriptInfo/05_DataTypes/017_0501Primitive.md)
+- 2021.02.12 [숫자형](./JavascriptInfo/05_DataTypes/017_0502Number.md)
+- 2021.02.12 [문자열](./JavascriptInfo/05_DataTypes/017_0503String.md)
+- 2021.02.12 [배열](./JavascriptInfo/05_DataTypes/017_0504Array.md)
+- 2021.02.12 [배열과 메서드](./JavascriptInfo/05_DataTypes/017_0505ArrayMethods.md)
+- 2021.02.12 [iterable 객체](./JavascriptInfo/05_DataTypes/017_0506Iterable.md)
+- 2021.02.12 [맵과 셋](./JavascriptInfo/05_DataTypes/017_0507MapSet.md)
+- 2021.02.12 [위크맵과 위크셋](./JavascriptInfo/05_DataTypes/017_0508Weak.md)
+- 2021.02.12 [Object.keys, values, entries](./JavascriptInfo/05_DataTypes/017_0509.KeysValues.md)
+- 2021.02.12 [구조분해할당](./JavascriptInfo/05_DataTypes/017_0510Destructuring.md)
