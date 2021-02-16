@@ -34,6 +34,7 @@
 
 * 2021.01.27 [API 데이터 파싱하기](./frontstudy/010_dataparsing.md)
 * 2021.01.31 [React Testing Library](./FrontStudy/011_ReactTesting.md)
+* 2021.02.16 [Atomic Design Pattern](./FrontStudy/019_AtomicPattern.md)
 
 ---
 
@@ -77,3 +78,13 @@
 - 2021.02.12 [위크맵과 위크셋](./JavascriptInfo/05_DataTypes/017_0508Weak.md)
 - 2021.02.12 [Object.keys, values, entries](./JavascriptInfo/05_DataTypes/017_0509.KeysValues.md)
 - 2021.02.12 [구조분해할당](./JavascriptInfo/05_DataTypes/017_0510Destructuring.md)
+- 2021.02.14 [Date 객체와 날짜](./JavascriptInfo/05_DataTypes/018_0511Date.md)
+- 2021.02.14 [JSON과 메서드](./JavascriptInfo/05_DataTypes/018_0512JsonMethod.md)
+
+### 6. 함수 심화학습
+
+- 2021.02.14 [재귀와 스택](./JavascriptInfo/06_AdvancedFunction/018_0601_recursion.md)
+- 2021.02.14 [나머지 매개변수와 전개문법](./JavascriptInfo/06_AdvancedFunction/018_0602RestParameters.md)
+- 2021.02.14 [변수의 유효범위와 클로저](./JavascriptInfo/06_AdvancedFunction/018_0603Closure.md)
+- 2021.02.16 [전역 객체](./JavascriptInfo/06_AdvancedFunction/019_0605_GlobalObject.md)
+- 2021.02.16 [객체로서의 함수와 기명표현식](./JavascriptInfo/06_AdvancedFunction/019_0606_FunctionObject.md)
