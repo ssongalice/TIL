@@ -88,3 +88,8 @@
 - 2021.02.14 [변수의 유효범위와 클로저](./JavascriptInfo/06_AdvancedFunction/018_0603Closure.md)
 - 2021.02.16 [전역 객체](./JavascriptInfo/06_AdvancedFunction/019_0605_GlobalObject.md)
 - 2021.02.16 [객체로서의 함수와 기명표현식](./JavascriptInfo/06_AdvancedFunction/019_0606_FunctionObject.md)
+- 2021.02.19 [new Function 문법](./JavascriptInfo/06_AdvancedFunction/020_0607_NewFunction.md)
+- 2021.02.19 [setTimeout, setInterval](./JavascriptInfo/06_AdvancedFunction/020_0608_setTimeout.md)
+- 2021.02.19 [call/apply](./JavascriptInfo/06_AdvancedFunction/020_0609_CallApply.md)
+- 20121.02.19 [함수 바인딩](./JavascriptInfo/06_AdvancedFunction/020_0610_Bind.md)
+- 2021.02.19 [화살표 함수 다시 살펴보기](./JavascriptInfo/06_AdvancedFunction/020_0611_ArrowFunction.md)
