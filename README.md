@@ -93,3 +93,8 @@
 - 2021.02.19 [call/apply](./JavascriptInfo/06_AdvancedFunction/020_0609_CallApply.md)
 - 20121.02.19 [함수 바인딩](./JavascriptInfo/06_AdvancedFunction/020_0610_Bind.md)
 - 2021.02.19 [화살표 함수 다시 살펴보기](./JavascriptInfo/06_AdvancedFunction/020_0611_ArrowFunction.md)
+
+### 7. 객체 프로퍼티 설정
+
+- 2021.02.20 [프로퍼티 플래그와 설명자](./JavascriptInfo/07_ObjectProperties/021_0701_Property.md)
+- 2021.02.20 [프로퍼티 getter와 setter](./JavascriptInfo/07_ObjectProperties/021_0702_GetterSetter.md)
