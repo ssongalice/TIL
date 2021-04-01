@@ -18,6 +18,9 @@
 
 - Medium 블로그 보고 정리
 - velog에 적었던 초기 내용 옮겨옴.
+<details>
+<summary>목록</summary>
+<div markdown="1">
 
 * 2020.12.28 [함수형 프로그래밍에 대한 적당한 고찰](./Medium/001_FunctionalProgramming.md)
 * 2020.12.29 [some, every의 차이](./Medium/002_SomeAndEvery.md)
@@ -25,6 +28,8 @@
 * 2021.01.02 [BEM](./Medium/004_BEM.md)
 * 2021.01.03 [try/catch 문](./Medium/005_TryCatch.md)
 * 2021.01.09 [가장 자주쓰는 22가지 코드 스니펫](./Medium/006_22CodeSnippets.md)
+</div>
+</details>
 
 ---
 
@@ -64,6 +69,10 @@
 
 ### 4. 객체
 
+<details>
+<summary>목록</summary>
+<div markdown="1">
+
 - 2021.02.07 [객체](./JavascriptInfo/04_ObjectBasics/015_0401Object.md)
 - 2021.02.07 [참조에 의한 객체 복사](./JavascriptInfo/04_ObjectBasics/015_0402ObjectCopy.md)
 - 2021.02.11 [메서드와 this](./JavascriptInfo/04_ObjectBasics/016_0404ObjectMethods.md)
@@ -71,8 +80,14 @@
 - 2021.02.11 [옵셔널 체이닝 ?.](./JavascriptInfo/04_ObjectBasics/016_0406OptinalChaining.md)
 - 2021.02.11 [심볼형](./JavascriptInfo/04_ObjectBasics/016_0407Symbol.md)
 - 2021.02.11 [객체를 원시형으로 변환하기](./JavascriptInfo/04_ObjectBasics/016_ObjectToprimitive.md)
+</div>
+</details>
 
 ### 5. 자료구조와 자료형
+
+<details>
+<summary>목록</summary>
+<div markdown="1">
 
 - 2021.02.12 [원시값의 메서드](./JavascriptInfo/05_DataTypes/017_0501Primitive.md)
 - 2021.02.12 [숫자형](./JavascriptInfo/05_DataTypes/017_0502Number.md)
@@ -86,8 +101,14 @@
 - 2021.02.12 [구조분해할당](./JavascriptInfo/05_DataTypes/017_0510Destructuring.md)
 - 2021.02.14 [Date 객체와 날짜](./JavascriptInfo/05_DataTypes/018_0511Date.md)
 - 2021.02.14 [JSON과 메서드](./JavascriptInfo/05_DataTypes/018_0512JsonMethod.md)
+</div>
+</details>
 
 ### 6. 함수 심화학습
+
+<details>
+<summary>목록</summary>
+<div markdown="1">
 
 - 2021.02.14 [재귀와 스택](./JavascriptInfo/06_AdvancedFunction/018_0601_recursion.md)
 - 2021.02.14 [나머지 매개변수와 전개문법](./JavascriptInfo/06_AdvancedFunction/018_0602RestParameters.md)
@@ -99,8 +120,16 @@
 - 2021.02.19 [call/apply](./JavascriptInfo/06_AdvancedFunction/020_0609_CallApply.md)
 - 20121.02.19 [함수 바인딩](./JavascriptInfo/06_AdvancedFunction/020_0610_Bind.md)
 - 2021.02.19 [화살표 함수 다시 살펴보기](./JavascriptInfo/06_AdvancedFunction/020_0611_ArrowFunction.md)
+</div>
+</details>
 
 ### 7. 객체 프로퍼티 설정
 
+<details>
+<summary>목록</summary>
+<div markdown="1">
+
 - 2021.02.20 [프로퍼티 플래그와 설명자](./JavascriptInfo/07_ObjectProperties/021_0701_Property.md)
 - 2021.02.20 [프로퍼티 getter와 setter](./JavascriptInfo/07_ObjectProperties/021_0702_GetterSetter.md)
+</div>
+</details>
