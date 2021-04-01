@@ -6,50 +6,50 @@
 
 ## JavaScript
 
-- JavaScript 관련 공부 정리
+**: JavaScript 관련 공부 정리**
 
-* 2021.01.19 [Redux Toolkit 기본](./JavaScript/007_ReduxToolkit.md)
-* 2021.01.21 [객체 맵핑](./JavaScript/008_Mapping.md)
-* 2021.01.24 [React Router 복습](./JavaScript/009_ReactRouterDom.md)
+- 2021.01.19 [Redux Toolkit 기본](./JavaScript/007_ReduxToolkit.md)
+- 2021.01.21 [객체 맵핑](./JavaScript/008_Mapping.md)
+- 2021.01.24 [React Router 복습](./JavaScript/009_ReactRouterDom.md)
 
 ---
 
 ## Medium
 
-- Medium 블로그 보고 정리
-- velog에 적었던 초기 내용 옮겨옴.
+**: Medium 글 보고 정리. 초기 내용 옮겨옴**
+
 <details>
 <summary>목록</summary>
 <div markdown="1">
 
-* 2020.12.28 [함수형 프로그래밍에 대한 적당한 고찰](./Medium/001_FunctionalProgramming.md)
-* 2020.12.29 [some, every의 차이](./Medium/002_SomeAndEvery.md)
-* 2020.12.30 [모든 js 개발자가 알아야 하는 9가지 ES6 요소들](./Medium/003_9FeaturesJS.md)
-* 2021.01.02 [BEM](./Medium/004_BEM.md)
-* 2021.01.03 [try/catch 문](./Medium/005_TryCatch.md)
-* 2021.01.09 [가장 자주쓰는 22가지 코드 스니펫](./Medium/006_22CodeSnippets.md)
+- 2020.12.28 [함수형 프로그래밍에 대한 적당한 고찰](./Medium/001_FunctionalProgramming.md)
+- 2020.12.29 [some, every의 차이](./Medium/002_SomeAndEvery.md)
+- 2020.12.30 [모든 js 개발자가 알아야 하는 9가지 ES6 요소들](./Medium/003_9FeaturesJS.md)
+- 2021.01.02 [BEM](./Medium/004_BEM.md)
+- 2021.01.03 [try/catch 문](./Medium/005_TryCatch.md)
+- 2021.01.09 [가장 자주쓰는 22가지 코드 스니펫](./Medium/006_22CodeSnippets.md)
 </div>
 </details>
 
 ---
 
-## 프론트엔드 스터디 일기
+## 프론트엔드 피드백 일기
 
-- 시원스쿨, 프론트엔드 스터디 등 스터디를 하면서 삽질했던 내용 복기
+**: 시원스쿨, 프론트엔드 스터디 등 스터디를 하면서 삽질했던 내용 복기**
 
-* 2021.01.27 [API 데이터 파싱하기](./frontstudy/010_dataparsing.md)
-* 2021.01.31 [React Testing Library](./FrontStudy/011_ReactTesting.md)
-* 2021.02.16 [Atomic Design Pattern](./FrontStudy/019_AtomicPattern.md)
+- 2021.01.27 [API 데이터 파싱하기](./frontstudy/010_dataparsing.md)
+- 2021.01.31 [React Testing Library](./FrontStudy/011_ReactTesting.md)
+- 2021.02.16 [Atomic Design Pattern](./FrontStudy/019_AtomicPattern.md)
 
 ---
 
 ## 모던자바스크립트 읽기 (ko.javascript.info)
 
-- 하루에 일정분량씩 무조건 모던자바스크립트 읽기
+**: 일정분량씩 모던자바스크립트 읽기**
 
 ### 파트 1
 
-### 2. 자바스크립트 기본
+#### 2. 자바스크립트 기본
 
 <details>
 <summary>목록</summary>
@@ -67,7 +67,7 @@
 </div>
 </details>
 
-### 4. 객체
+#### 4. 객체
 
 <details>
 <summary>목록</summary>
@@ -83,7 +83,7 @@
 </div>
 </details>
 
-### 5. 자료구조와 자료형
+#### 5. 자료구조와 자료형
 
 <details>
 <summary>목록</summary>
@@ -104,7 +104,7 @@
 </div>
 </details>
 
-### 6. 함수 심화학습
+#### 6. 함수 심화학습
 
 <details>
 <summary>목록</summary>
@@ -123,7 +123,7 @@
 </div>
 </details>
 
-### 7. 객체 프로퍼티 설정
+#### 7. 객체 프로퍼티 설정
 
 <details>
 <summary>목록</summary>
