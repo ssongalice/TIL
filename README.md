@@ -35,11 +35,19 @@
 
 ## 프론트엔드 피드백 일기
 
-**: 시원스쿨, 프론트엔드 스터디 등 스터디를 하면서 삽질했던 내용 복기**
+**: 시원스쿨, 프론트엔드 스터디, 작업 등에서 삽질했던 / 피드백 받은 내용 복기**
 
-- 2021.01.27 [API 데이터 파싱하기](./frontstudy/010_dataparsing.md)
-- 2021.01.31 [React Testing Library](./FrontStudy/011_ReactTesting.md)
-- 2021.02.16 [Atomic Design Pattern](./FrontStudy/019_AtomicPattern.md)
+<details>
+<summary>목록</summary>
+<div markdown="1">
+ 
+- 2021.01.27 [API 데이터 파싱하기](./Feedback/010_dataparsing.md)
+- 2021.01.31 [React Testing Library](./Feedback/011_ReactTesting.md)
+- 2021.02.16 [Atomic Design Pattern](./Feedback/019_AtomicPattern.md)
+- 2021.02.20 [TypeScript 기초](./Feedback/021_TypeScript.md)
+- 2021.04.01 [UseRef](./Feedback/0401_01_UseRef.md)
+</div>
+</details>
 
 ---
 
