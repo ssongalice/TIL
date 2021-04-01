@@ -46,6 +46,9 @@
 
 ### 2. 자바스크립트 기본
 
+<details>
+<summary>목록</summary>
+<div markdown="1">
 - 2021.01.31 [기본연산자와 수학](./JavascriptInfo/02_Fundamentals/011_0208operators.md)
 - 2021.01.31 [비교연산자](./JavascriptInfo/02_Fundamentals/011_0209comparison.md)
 - 2021.02.01 [논리연산자](./JavascriptInfo/02_Fundamentals/012_0211logicalOperators.md)
@@ -55,6 +58,8 @@
 - 2021.02.06 [함수](./JavascriptInfo/02_Fundamentals/014_0215FunctionBasic.md)
 - 2021.02.06 [함수표현식](./JavascriptInfo/02_Fundamentals/014_0216FunctionExpression.md)
 - 2021.02.06 [화살표함수](./JavascriptInfo/02_Fundamentals/014_0217ArrowFunction.md)
+</div>
+</details>
 
 ### 4. 객체
 
