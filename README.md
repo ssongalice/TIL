@@ -166,7 +166,7 @@
 </div>
 </details>
 
-#### 8. 객체 프로퍼티 설정
+#### 8. 프로토타입과 프로토타입 상속
 
 <details>
 <summary>목록</summary>
