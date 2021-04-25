@@ -59,13 +59,19 @@
 
 ## 이것저것 토이 프로젝트
 
-**: 시원스쿨 숙제, 회사용 스케치, 그냥 잡다하게 만든 것들 프로젝트 내용 기록 **
+**: 시원스쿨 숙제, 회사용 스케치, 그냥 잡다하게 만든 것들 프로젝트 내용 기록**
+
+<details>
+<summary>목록</summary>
+<div markdown="1">
 
 - [SsongBrandBurger](./Toys/001_SsongsWay.md)
 - [Box Divider](./Toys/002_BoxDivider.md)
 - [Carousel](./Toys/003_Carousel.md)
 - [시장분석 고객사 위치 시각화](./Toys/003_MarketRanking.md)
 - [로딩 움직이는 새](./Toys/004_LoadingBird.md)
+</div>
+</details>
 
 ---
 
@@ -157,5 +163,16 @@
 
 - 2021.02.20 [프로퍼티 플래그와 설명자](./JavascriptInfo/07_ObjectProperties/021_0701_Property.md)
 - 2021.02.20 [프로퍼티 getter와 setter](./JavascriptInfo/07_ObjectProperties/021_0702_GetterSetter.md)
+</div>
+</details>
+
+#### 8. 객체 프로퍼티 설정
+
+<details>
+<summary>목록</summary>
+<div markdown="1">
+
+- 2021.02.22 [프로토타입 상속](./JavascriptInfo/08_Prototype/022_0801_Inheritance.md)
+- 2021.02.20 [함수의 프로토타입 프로퍼티](./JavascriptInfo/08_Prototype/023_0802_FunctionPrototype.md)
 </div>
 </details>
