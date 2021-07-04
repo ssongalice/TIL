@@ -8,7 +8,7 @@
 - css transform origin
   - 회전의 중심점을 지정.
   - 각 요소의 중심점이 다르므로 css transform origin으로 지정해서 회전시켜야 함.
-    ![LoadingBird](./Toys/images/LoadingBird.PNG)
+    ![LoadingBird](./images/LoadingBird.PNG)
 
 ---
 

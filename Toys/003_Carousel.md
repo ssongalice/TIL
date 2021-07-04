@@ -2,7 +2,7 @@
 
 - 원리
   - carousel 카드를 감싸고 있는 wrapper를 만들고 넘길 때마다 css로 위치를 계산해 해당 카드만 보여준다.
-    ![Carousel](./Toys/images/Carousel.PNG)
+    ![Carousel](./images/Carousel.PNG)
 
 ### 코드
 
