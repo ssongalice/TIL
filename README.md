@@ -2,33 +2,21 @@
 
 - 하루에 공부한 내용을 정리
 
----
+## 이것저것 토이 프로젝트
 
-## JavaScript
-
-**: JavaScript 관련 공부 정리**
-
-- 2021.01.19 [Redux Toolkit 기본](./JavaScript/007_ReduxToolkit.md)
-- 2021.01.21 [객체 맵핑](./JavaScript/008_Mapping.md)
-- 2021.01.24 [React Router 복습](./JavaScript/009_ReactRouterDom.md)
-
----
-
-## Medium
-
-**: Medium 글 보고 정리. 초기 내용 옮겨옴**
+**: 시원스쿨 숙제, 회사용 스케치, 그냥 잡다하게 만든 것들 프로젝트 내용 기록**
 
 <details>
 <summary>목록</summary>
 <div markdown="1">
 
-- 2020.12.28 [함수형 프로그래밍에 대한 적당한 고찰](./Medium/001_FunctionalProgramming.md)
-- 2020.12.29 [some, every의 차이](./Medium/002_SomeAndEvery.md)
-- 2020.12.30 [모든 js 개발자가 알아야 하는 9가지 ES6 요소들](./Medium/003_9FeaturesJS.md)
-- 2021.01.02 [BEM](./Medium/004_BEM.md)
-- 2021.01.03 [try/catch 문](./Medium/005_TryCatch.md)
-- 2021.01.09 [가장 자주쓰는 22가지 코드 스니펫](./Medium/006_22CodeSnippets.md)
-- 2021.05.04 [21 Best Practices for a Clean React Project](./Medium/007_CleanReactProject.md)
+- [SsongBrandBurger](./Toys/001_SsongsWay.md)
+- [Carousel](./Toys/003_Carousel.md)
+- [시장분석 시각화](./Toys/003_MarketRanking.md)
+- [로딩 움직이는 새](./Toys/004_LoadingBird.md)
+- [Websocket](./Toys/005_MarketRanking.md)
+- 해야함)s3 업로더 구현
+- 해야함) tree 재귀 문제 풀이
 </div>
 </details>
 
@@ -54,24 +42,6 @@
 - 2021.04.09 [Code Spliting](./Feedback/0409_02_CodeSplit.md)
 - 2021.04.10 [DOM](./Feedback/0410_DOM.md)
 - 2021.05.25 [RequestAnimationFrame](./Feedback/RequestAnimationFrame.md)
-</div>
-</details>
-
----
-
-## 이것저것 토이 프로젝트
-
-**: 시원스쿨 숙제, 회사용 스케치, 그냥 잡다하게 만든 것들 프로젝트 내용 기록**
-
-<details>
-<summary>목록</summary>
-<div markdown="1">
-
-- [SsongBrandBurger](./Toys/001_SsongsWay.md)
-- [Carousel](./Toys/003_Carousel.md)
-- [시장분석 시각화](./Toys/003_MarketRanking.md)
-- [로딩 움직이는 새](./Toys/004_LoadingBird.md)
-- [Websocket](./Toys/005_MarketRanking.md)
 </div>
 </details>
 
@@ -207,4 +177,39 @@
 - [js의 메모리 구조](./JobInterview/JSMemory.md)
 - [React 렌더링 과정](./JobInterview/ReactRendering.md)
 </div>
-  </details>
+</details>
+
+---
+
+## JavaScript
+
+**: JavaScript 관련 공부 정리**
+
+<details>
+<summary>목록</summary>
+<div markdown="1">
+
+- 2021.01.19 [Redux Toolkit 기본](./JavaScript/007_ReduxToolkit.md)
+- 2021.01.21 [객체 맵핑](./JavaScript/008_Mapping.md)
+- 2021.01.24 [React Router 복습](./JavaScript/009_ReactRouterDom.md)
+</div>
+
+---
+
+## Medium
+
+**: Medium 글 보고 정리. 초기 내용 옮겨옴**
+
+<details>
+<summary>목록</summary>
+<div markdown="1">
+
+- 2020.12.28 [함수형 프로그래밍에 대한 적당한 고찰](./Medium/001_FunctionalProgramming.md)
+- 2020.12.29 [some, every의 차이](./Medium/002_SomeAndEvery.md)
+- 2020.12.30 [모든 js 개발자가 알아야 하는 9가지 ES6 요소들](./Medium/003_9FeaturesJS.md)
+- 2021.01.02 [BEM](./Medium/004_BEM.md)
+- 2021.01.03 [try/catch 문](./Medium/005_TryCatch.md)
+- 2021.01.09 [가장 자주쓰는 22가지 코드 스니펫](./Medium/006_22CodeSnippets.md)
+- 2021.05.04 [21 Best Practices for a Clean React Project](./Medium/007_CleanReactProject.md)
+</div>
+</details>
