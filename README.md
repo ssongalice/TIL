@@ -17,6 +17,9 @@
 - [Websocket](./Toys/005_MarketRanking.md)
 - 해야함)s3 업로더 구현
 - 해야함) tree 재귀 문제 풀이
+- [피그마 플러그인 만들기](./Toys/007_FigmaPlugin.md)
+- 해야함) 구글 스프레드 시트 크롤링
+- 해야함) mysql 서버 통신하기
 </div>
 </details>
 
