@@ -18,9 +18,9 @@
 - 해야함)s3 업로더 구현
 - 해야함) tree 재귀 문제 풀이
 - [피그마 플러그인 만들기](./Toys/007_FigmaPlugin.md)
-- 해야함) 구글 스프레드 시트 크롤링
-- 해야함) mysql 서버 통신하기
-</div>
+- [구글 스프레드 시트 크롤링](./Toys/008_GoogleCrawling.md)
+- [mysql 서버 통신하기](./Toys/009_Mysql.md)
+</div>)
 </details>
 
 ---
@@ -45,6 +45,8 @@
 - 2021.04.09 [Code Spliting](./Feedback/0409_02_CodeSplit.md)
 - 2021.04.10 [DOM](./Feedback/0410_DOM.md)
 - 2021.05.25 [RequestAnimationFrame](./Feedback/RequestAnimationFrame.md)
+- 2021.07.31 [async, await](./Feedback/AsyncAwait.md)
+- 2021.07.31 [callback](./Feedback/CallbackFn.md)
 </div>
 </details>
 
