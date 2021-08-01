@@ -20,7 +20,7 @@
 - [피그마 플러그인 만들기](./Toys/007_FigmaPlugin.md)
 - [구글 스프레드 시트 크롤링](./Toys/008_GoogleCrawling.md)
 - [mysql 서버 통신하기](./Toys/009_Mysql.md)
-</div>)
+</div>
 </details>
 
 ---
